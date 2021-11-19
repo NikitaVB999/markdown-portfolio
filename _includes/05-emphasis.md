@@ -1,7 +1,7 @@
-*This text will be italic*
+*Italy is a beautiful place filled with romance*
 _French is a romantic language_
 
-**This text will be bold**
+**It's bold that way**
 __Can you do it__
 
 _You **can** combine them_
